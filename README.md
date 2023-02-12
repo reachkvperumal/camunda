@@ -30,6 +30,10 @@ Tutorial
     <td colspan="2">Conditional Start Event</td>
     <td colspan="2">Conditional Intermediate Event</td>
   </tr>  
+  <tr>    
+    <td colspan="2" align="right">Catching Intermediate Link</td>
+    <td colspan="2" align="left">Throwing Intermediate Link</td>    
+  </tr>  
 </table>
 
 
